@@ -1,2 +1,0 @@
-# activity
-The Activity
